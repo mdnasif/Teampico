@@ -1,0 +1,639 @@
+/* low resulation mobile phone--glaxy fold */
+@media (min-width: 279px) and (max-width: 319px){
+    .header .navbar-nav .nav-item .nav-link {
+        font-size: 16px;;
+        margin: 5px 25px 0px 0px;
+    }
+    .navbar-toggler .fa-bars{
+        color: #EB3A4C;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 1 0 0 #EB3A4C !important;
+    }
+    .inner-banner {
+        padding: 20px 0px 0px 0px;
+    }
+    .banner h1 {
+        font-size: 32px;
+        letter-spacing: 1px;
+        line-height: 42px;
+    }
+    .banner p {
+        font-size: 14px;
+    }
+    .we-do-section {
+        padding: 50px 0px;
+    }
+    .inner-button .btn-primary {
+        width: 190px;
+        height: 45px;
+        font-size: 10px;
+    }
+    .inner-button .btn-light {
+        margin-left: 5px;
+        width: 190px;
+        height: 45px;
+        font-size: 10px;
+    }
+    .sec-heading::before {
+        height: 40px;
+        top: -62px;
+    }
+    .sec-title {
+        padding: 40px 0px 70px;
+    }
+    .sec-title h2 {
+        font-size: 30px;
+        padding: 0px 0px 10px;
+    }
+    .sec-title p {
+        font-size: 12px;
+    }
+    .wwd-section .wwd-active .center .wwd-item-box {
+        width: 275px !important;
+        height: 400px;
+        margin-top: 0px;
+        padding: 0px 40px;
+    }
+    .wwd-section .wwd-active .center .wwd-item-box .wwd-box-icon i {
+        font-size: 50px;
+    }
+    .wwd-section .wwd-active .center .wwd-item-box .wwd-cont h3 {
+        font-size: 26px !important;
+        padding: 30px 0px 8px;
+        letter-spacing: 2px;
+    }
+    .wwd-section .wwd-active .center .wwd-item-box .wwd-cont p {
+        font-size: 14px;
+        margin: 0px;
+        line-height: 24px;
+    }
+    .wwd-section .global-btn {
+        padding: 80px 0px 35px;
+    }
+    .global-btn .btn-transparent {
+        font-size: 12px;
+        padding: 12px 25px;
+    }
+    .projects_list ul {
+        margin: 0px;
+        padding: 0px;
+    }
+    .project-section .projects_list ul li {
+        font-size: 12px !important;
+        padding: 0 0px !important;
+        margin: 0px 14px 15px !important;
+    }
+    .item-hover h3 {
+        font-size: 22px;
+    }
+    /* project section end */
+    .aboutUs-section {
+        padding: 60px 0px;
+    }
+    .about-inner {
+        padding: 0px 0px 0px 0px !important;
+    }
+    .about-inner h3 {
+        font-size: 18px !important;
+        line-height: 28px !important;
+    }
+    .about-inner p {
+        font-size: 14px;
+        line-height: 24px;
+        margin: 0px;
+        padding: 35px 0px 60px;
+    }
+    .about-inner .btn-info {
+        font-size: 12px;
+        padding: 12px 30px;
+    }
+    /* about part end */
+    .counterBox {
+        width: 165px;
+        height: 165px;
+        margin: 10px 0px !important;
+    }
+    .counterBox .count-nub p {
+        font-size: 26px;
+        font-weight: 600;
+    }
+    .counterBox .count-text p {
+        font-size: 26px;
+        font-weight: 500;
+    }
+    /* counter part end */
+    .brand-heading h2 {
+        font-size: 26px !important;
+        line-height: 36px !important;
+    }
+    .single-brand img {
+        width: 75%;
+        margin: 15px;
+    }
+    .brand-section .pt-90 {
+        padding-top: 30px;
+    }
+    /* brand part end */
+    .subs-contact h3 {
+        font-size: 23px !important;
+        margin-bottom: 20px;
+    }
+    .subs-contact p {
+        font-size: 14px !important;
+        line-height: 24px;
+    }
+    .subscribe .form-control {
+        padding: 10px 18px !important;
+        font-size: 12px !important;
+        width: 64% !important;
+    }
+    .subscribe .btn-primary {
+        padding: 10px 10px !important;
+        margin-left: 5px !important;
+        font-size: 12px;
+    }
+/* subscriber part end */
+.testimonial-section .single-test {
+    padding: 20px !important;
+    margin: 0 0px;
+}
+/* testimonial part end */
+    .single-plan .price-cont h3 {
+        font-size: 26px !important;
+        padding-top: 15px !important;
+    }
+    .single-plan .price-cont h4 {
+        padding: 25px 0px 10px;
+    }
+.single-plan {
+    padding: 0px 5px !important;
+    padding-bottom: 20px !important;
+}
+.single-plan .price-list ul li {
+    font-size: 14px !important;
+}
+.single-plan .price-icon i {
+    font-size: 55px !important;
+    padding: 25px 0px 15px;
+}
+.pricing-section .plan-active .owl-item.center {
+    margin-bottom: 0px !important;
+}
+.pricing-section .plan-active .owl-item.center .single-plan .price-btn .btn-transparent {
+    font-size: 12px;
+    padding: 12px 30px;
+}
+.pricing-section .plan-active .owl-item.center .single-plan::before {
+    height: 10px;
+}
+.pricing-section .owl-carousel .owl-item {
+    min-height: 690px !important;
+}
+.pricing-section .global-btn {
+    padding: 30px 0px 20px !important;
+}
+
+/* pricing part end */
+.recent-section {
+    padding: 50px 0px;
+}
+.recent-section .inner-box {
+    margin-bottom: 20px;
+}
+.blog-cont {
+    padding: 30px 2px;
+}
+.blog-cont h3 {
+    font-size: 20px;
+}
+.blog-cont p {
+    font-size: 11px !important;
+    font-weight: 500 !important;
+}
+/* recent section end */
+.contact {
+    padding: 50px 0px 0px;
+}
+.inner-address {
+    padding: 60px 0px !important;
+}
+.address-heading h3 {
+    font-size: 30px;
+    padding: 0px 0px 35px;
+}
+.address-single-parts h3 {
+    font-size: 22px;
+    padding-top: 2px;
+}
+.address-single-parts p {
+    font-size: 16px;
+    padding: 0px 0px 10px;
+    margin: 0px;
+}
+.contact .subs-contact {
+    padding: 40px 0px 0px 0px;
+}
+.contact .subs-contact p {
+    font-size: 15px !important;
+    line-height: 24px;
+    font-weight: 500;
+}
+.form-name .mr {
+    margin-right: 10px;
+}
+.contact-form .form-control {
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+.contact form.contact-form {
+    padding: 50px 0px;
+}
+.form-submit .btn-transparent {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 12px 45px;
+}
+/* footer part end */
+#scrollUp {
+    height: 50px;
+    width: 50px;
+    right: 12px !important;
+    bottom: 48px;
+    font-size: 18px;
+    line-height: 50px;
+}
+.contact .form-control {
+    line-height: 0.5 !important;
+}
+}
+/* most of the smartphone devices */
+@media (min-width: 320px) and (max-width: 480px){
+    .navbar-toggler i{
+        font-size: 22px;
+        color: #EB3A4C;
+    }
+    .navbar-toggler{
+         border:none !important;
+    }
+    .navbar-toggler:hover, .navbar-toggler:focus{
+        color: #EB3A4C;
+    }
+    .close-btn{
+        border: none !important;
+        background: transparent;
+    }
+    .close-btn i{
+        color: #EB3A4C !important;
+        font-size: 30px;
+    }
+    
+    .btn-close:hover {
+        color: #EB3A4C !important;
+    }
+
+    .inner-banner {
+        padding: 20px 0px 0px 0px;
+    }
+    .banner h1 {
+        font-size: 45px;
+        letter-spacing: 2px;
+        line-height: 55px;
+    }
+    .inner-button .btn-light {
+        margin-left: 15px;
+    }
+    .sec-title {
+        padding: 40px 0px 70px;
+    }
+    .sec-title h2 {
+        font-size: 42px;
+        padding: 0px 0px 10px;
+    }
+    .sec-title p {
+        font-size: 16px;
+    }
+    .wwd-section .wwd-active .center .wwd-item-box .wwd-cont h3 {
+        font-size: 30px !important;
+        padding: 44px 0px 10px;
+    }
+    /* banner part end */
+    .projects_list ul {
+        margin: 0px;
+        padding: 0px;
+    }
+    .project-section .projects_list ul li {
+        font-size: 16px;
+        padding: 0 0px;
+        margin: 0px 20px 15px;
+    }
+    /* project section end */
+    .about-inner {
+        padding: 0px 0px 0px 5px;
+    }
+    .about-inner h3 {
+        font-size: 26px;
+        line-height: 35px;
+        margin: 0px;
+        padding-top: 15px;
+    }
+    /* about part end */
+    .counterBox {
+        margin: 15px 0px;
+    }
+    .counterBox .count-nub p {
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .counterBox .count-text p {
+        font-size: 30px;
+        font-weight: 500;
+    }
+    /* counter part end */
+    .brand-heading h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .single-brand img {
+        width: 70%;
+        margin: 20px;
+    }
+    .brand-section .pt-90 {
+        padding-top: 30px;
+    }
+    /* brand part end */
+    .subs-contact h3 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    .subs-contact p {
+        font-size: 15px;
+    }
+    .subscribe .form-control {
+        padding: 12px 20px;
+        font-size: 16px;
+        width: 64%;
+    }
+    .subscribe .btn-primary {
+        padding: 11px 20px;
+    }
+/* subscriber part end */
+
+.single-plan .price-cont h3 {
+    font-size: 30px !important;
+    padding-top: 20px !important;
+}
+.single-plan {
+    padding: 0px 55px;
+    padding-bottom: 20px;
+}
+.pricing-section .plan-active .owl-item.center .single-plan {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.pricing-section .single-plan {
+    padding: 0 45px;
+}
+.single-plan .price-list ul li {
+    font-size: 18px;
+}
+.single-plan .price-icon i {
+    font-size: 85px;
+}
+.pricing-section .plan-active .owl-item.center {
+    margin-bottom: 10px;
+}
+.price-btn {
+    padding: 60px 0px 50px !important;
+}
+/* pricing part end */
+.recent-section .inner-box {
+    margin-bottom: 20px;
+}
+.blog-cont {
+    padding: 30px 10px;
+}
+.blog-cont p {
+    font-size: 17px;
+    font-weight: 300;
+}
+/* recent section end */
+.inner-address {
+    padding: 130px 0;
+}
+.contact .subs-contact {
+    padding: 40px 0px 0px 0px;
+}
+.subs-contact p {
+    font-size: 20px;
+}
+.contact form.contact-form {
+    padding: 50px 0px;
+}
+/* footer part end */
+#scrollUp {
+    right: 25px;
+    bottom: 50px;
+}
+}
+/* mobile phone and low resulation tablet */
+@media (min-width: 481px) and (max-width: 767px){
+    .inner-banner {
+        padding: 20px 0px 0px 0px;
+    }
+    .banner h1 {
+        font-size: 45px;
+        letter-spacing: 2px;
+        line-height: 55px;
+    }
+    .inner-button .btn-light {
+        margin-left: 15px;
+    }
+    .sec-title {
+        padding: 40px 0px 70px;
+    }
+    .sec-title h2 {
+        font-size: 42px;
+        padding: 0px 0px 10px;
+    }
+    .sec-title p {
+        font-size: 16px;
+    }
+    .wwd-section .wwd-active .center .wwd-item-box .wwd-cont h3 {
+        font-size: 30px !important;
+        padding: 44px 0px 10px;
+    }
+    .projects_list ul {
+        margin: 0px;
+        padding: 0px;
+    }
+    .project-section .projects_list ul li {
+        font-size: 16px;
+        padding: 0 0px;
+        margin: 0px 35px 15px;
+    }
+    /* project section end */
+    .about-inner {
+        padding: 0px 0px 0px 5px;
+    }
+    .about-inner p {
+        font-size: 15px;
+        font-weight: 400;
+        padding: 35px 0px 60px;
+    }
+    .about-inner h3 {
+        font-size: 26px;
+        line-height: 35px;
+        margin: 0px;
+        padding-top: 15px;
+    }
+    /* about part end */
+    .counterBox {
+        margin: 15px 0px;
+    }
+    .counterBox .count-nub p {
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .counterBox .count-text p {
+        font-size: 30px;
+        font-weight: 500;
+    }
+    /* counter part end */
+    .brand-heading h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .single-brand img {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .brand-section .pt-90 {
+        padding-top: 30px;
+    }
+    /* brand part end */
+    .subs-contact h3 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    .subs-contact p {
+        font-size: 15px;
+    }
+    .subscribe .form-control {
+        padding: 12px 20px;
+        font-size: 16px;
+        width: 64%;
+    }
+    .subscribe .btn-primary {
+        padding: 11px 20px;
+    }
+    /* subscriber part end */
+    .single-plan .price-cont h3 {
+        font-size: 30px;
+        padding-top: 20px;
+    }
+    .single-plan {
+        padding: 0px 55px;
+        padding-bottom: 20px;
+    }
+    .single-plan .price-list ul li {
+        font-size: 18px;
+    }
+    .single-plan .price-icon i {
+        font-size: 85px;
+    }
+    .pricing-section .plan-active .owl-item.center {
+        margin-bottom: 10px;
+    }
+    .price-btn {
+        width: 100%;
+        padding: 60px 0px 50px;
+    }
+    .pricing-section .plan-active .owl-item.center .single-plan .price-btn .btn-transparent {
+        font-size: 14px;
+        padding: 15px 35px;
+    }
+    .pricing-section .plan-active .owl-item.center .single-plan {
+        padding-top: 105px;
+        padding-bottom: 60px;
+    }
+    /* pricing part end */
+    .recent-section .inner-box {
+        margin-bottom: 20px;
+    }
+    .blog-cont {
+        padding: 30px 10px;
+    }
+    .blog-cont p {
+        font-size: 17px;
+        font-weight: 300;
+    }
+    /* recent section end */
+    .inner-address {
+        padding: 130px 0;
+    }
+    .contact .subs-contact {
+        padding: 40px 0px 0px 0px;
+    }
+    .subs-contact p {
+        font-size: 20px;
+    }
+    .contact form.contact-form {
+        padding: 50px 0px;
+    }
+    /* footer part end */
+    #scrollUp {
+        right: 25px;
+        bottom: 50px;
+    }
+}
+  /* tablet, notebook */
+  @media (min-width: 768px) and (max-width: 1024px){
+    .banner h1 {
+        font-size: 80px;
+        line-height: 90px;
+        letter-spacing: 2px;
+    }
+    .inner-banner {
+        width: 100%;
+        padding: 60px 0px 0px 120px;
+    }
+    .sec-title p {
+        font-size: 16px;
+    }
+    .item-hover h3 {
+        font-size: 26px;
+        text-align: center;
+    }
+    .project-section .projects_list ul li {
+        margin: 0px 18px 50px;
+    }
+    .counterBox .count-nub p {
+        font-size: 30px;
+        font-weight: 500;
+    }
+    .counterBox .count-text p {
+        font-size: 28px;
+        font-weight: 400;
+    }
+    .counterBox {
+        width: 160px;
+        height: 160px;
+    }
+.pricing-section .price-btn {
+    width: 100%;
+    padding: 60px 0px 50px;
+}
+.blog-cont {
+    padding: 30px 25px;
+}
+.blog-cont p {
+    font-size: 18px;
+    font-weight: 300;
+}
+form.contact-form {
+    padding: 0px 0px 45px;
+}
+  }
